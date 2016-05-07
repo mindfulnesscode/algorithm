@@ -1,4 +1,4 @@
-
+1
 $: << 'vendor/isolate-3.2.2/lib/'
 
 require 'rubygems'
